@@ -9,7 +9,7 @@
   <h3 align="center">🤖 AI-Powered Business Name Generator</h3>
 
    <div align="center">
-    Build AI-powered business name generator using   <b>Next.js, Shadcn UI, TailwindCSS, Gemini.</b> Watch step-by-step video tutorial on <a href="https://www.youtube.com/@developergoswami/videos" target="_blank"><b>Developer Goswami</b></a> YouTube channel.  Make sure to subscribe my YouTube channel for such great content!
+    Build AI-powered business name generator using   <b>Next.js, Shadcn UI, TailwindCSS, Gemini.</b> <a href="https://www.royalkarann.com" target="_blank"><b>Karan Vishwakarma</b></a>
     </div>
 
 </div>
@@ -26,20 +26,9 @@
 
 ## <a name="about-the-creator">🙋 About The Creator</a>
 
-Hi there! 👋 I'm Developer Goswami, a passionate software developer and tech enthusiast dedicated to helping others learn and grow in the field of web development.
+Hi there! 👋 I'm Karan Vishwakarma, a passionate software developer and tech enthusiast dedicated to helping others learn and grow in the field of web development.
 
-I create beginner-friendly tutorials and in-depth coding videos on my [YouTube channel](https://www.youtube.com/@developergoswami) , covering a wide range of technologies like Next.js, React, TailwindCSS, PHP, Laravel, and more. My mission is to simplify complex topics and empower developers to build amazing projects with confidence.
-
-🌟 Why Follow Me?
-
-- 💻 Practical Tutorials: Learn by building real-world projects.
-- 🧑‍🏫 Beginner-Friendly Approach: Step-by-step guidance for all skill levels.
-- 📚 Free Resources: Open-source code and detailed explanations.
-- 🚀 Focus on Growth: Tips, tricks, and best practices for modern development.
-
-If you're looking to enhance your coding skills or explore exciting projects, you're in the right place!
-
-Don’t forget to subscribe to my YouTube channel and star this repository for more awesome content.
+I create beginner-friendly website covering a wide range of technologies like Next.js, React, TailwindCSS. My mission is to simplify complex topics and empower developers to build amazing projects with confidence.
 
 ### 🤝 Connect with Me:
 
@@ -47,10 +36,10 @@ Don’t forget to subscribe to my YouTube channel and star this repository for m
 
 Feel free to connect with me on below social plateform:
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@developergoswami)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developer-goswami/)
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/developer_goswami/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Goswami2021Vaibhav)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CodeWithStranger)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karanvishwakarma/)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/royalkarann/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karanvishwakarmaa)
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -86,8 +75,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/Goswami2021Vaibhav/AI-Powered-Business-Name-Generator-Using-NextJs.git
-cd AI-Powered-Business-Name-Generator-Using-NextJs
+git clone https://github.com/karanvishwakarmaa/BusinessNameGenerator.git
+cd BusinessNameGenerator
 ```
 
 **Installation**
